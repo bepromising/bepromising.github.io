@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["dashboard"],{7277:function(a,r,t){"use strict";t.r(r);var e=function(a,r){var t=r._c;return t("iframe",r._b({attrs:{src:"./keshihua/page5.htm",frameborder:"0",scrolling:"auto",width:"100%;",height:"100%"}},"iframe",r.data,!1))},n=[],i=t("2877"),o={},s=Object(i["a"])(o,e,n,!0,null,null,null);r["default"]=s.exports}}]);
+//# sourceMappingURL=dashboard.945aace5.js.map
